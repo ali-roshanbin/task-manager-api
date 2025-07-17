@@ -69,7 +69,7 @@ A robust, production-ready RESTful API for managing tasks and users, built with 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/ali-roshanbin/task-manager.git
    cd task-manager
    ```
 
